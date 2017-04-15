@@ -1,0 +1,24 @@
+{
+  "name": "gifun",
+  "version": "1.0.0",
+  "description": "Make it funny with GIF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustolazaro/gifun.git"
+  },
+  "keywords": [
+    "Slack",
+    "App",
+    "GIF"
+  ],
+  "author": "Augusto Lazaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augustolazaro/gifun/issues"
+  },
+  "homepage": "https://github.com/augustolazaro/gifun#readme"
+}
